@@ -11,4 +11,3 @@ public class BoletimEstudantil {
     }
 
 }
-BETNA
